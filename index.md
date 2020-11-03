@@ -11,7 +11,7 @@ latitude: "42"        # decimal latitude of workshop venue (use https://www.latl
 longitude: "-71"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Nov 3, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 1:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+startdate: 2020-11-03      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sarah St. Martin", "Kevin French"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Chuck McAndrew", "Jaki Frisina"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
